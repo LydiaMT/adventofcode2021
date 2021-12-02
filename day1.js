@@ -28,7 +28,3 @@ function sonarSlidingWindow (arr) {
   return increaseCount;
 }
 sonarSlidingWindow(depthMeasurments)
-
-// Day 2 | Part 1
-
-// Day 2 | Part 2
